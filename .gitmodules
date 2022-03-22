@@ -1,0 +1,9 @@
+[submodule "billing"]
+	path = billing
+	url = https://github.com/iscreen/nestjs-microservice-billing
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:iscreen/nestjs-microservice-api-gateway.git
+[submodule "auth"]
+	path = auth
+	url = https://github.com/iscreen/nestjs-microservice-auth
